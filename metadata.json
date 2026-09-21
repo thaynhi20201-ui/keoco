@@ -1,0 +1,6 @@
+{
+  "name": "Trò Chơi Kéo Co Địa Lý",
+  "description": "Trò chơi kéo co đối kháng trí tuệ sôi động với ngân hàng câu hỏi trắc nghiệm môn Địa lý Việt Nam và Thế giới.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
